@@ -1,0 +1,14 @@
+ul {
+  list-style-type: none;
+  width: 15%;
+  background-color: #f1f1f1;
+  height: 100%; /* Full height */
+  position: sticky;
+  position: fixed; /* Make it stick, even on scroll */
+  overflow: auto; /* Enable scrolling if the sidenav has too much content */
+}
+
+a {
+  text-align: left;
+  width: 100%;
+}
